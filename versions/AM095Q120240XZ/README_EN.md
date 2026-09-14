@@ -31,7 +31,7 @@
 
 OSPTEK **0.95″ 120×240 AMOLED** is an **SPI** color display module driven by **SH8501**. The compact portrait resolution suits wearables, status indicators, and tight HMI layouts.
 
-Spec ID (repository name): `0.95-amoled-120x240-spi-sh8501`
+Spec ID (repository name): `amoled-0.95-120x240-spi-sh8501`
 
 Current module version: **AM095Q120240XZ**. Electrical and mechanical details follow [`docs/AM_095_Q120240_XZ_d0c3fdd1ce.pdf`](./docs/AM_095_Q120240_XZ_d0c3fdd1ce.pdf).
 
@@ -51,12 +51,12 @@ Current module version: **AM095Q120240XZ**. Electrical and mechanical details fo
 
 | Description | Path |
 | ---- | ---- |
-| ESP32-S3 · SH8501 SPI bring-up (LVGL9) | [`examples/esp32s3-0.95-amoled-120x240-spi-sh8501-bringup/`](./examples/esp32s3-0.95-amoled-120x240-spi-sh8501-bringup/) |
+| ESP32-S3 · SH8501 SPI bring-up (LVGL9) | [`examples/esp32s3-amoled-0.95-120x240-spi-sh8501-bringup/`](./examples/esp32s3-amoled-0.95-120x240-spi-sh8501-bringup/) |
 
 ## Repository layout
 
 ```text
-0.95-amoled-120x240-spi-sh8501/                                # repo root (nav: ../../README_EN.md)
+amoled-0.95-120x240-spi-sh8501/                                # repo root (nav: ../../README_EN.md)
 └── versions/
     └── AM095Q120240XZ/                                # full materials for this part number
         ├── README.md
@@ -81,7 +81,7 @@ Current module version: **AM095Q120240XZ**. Electrical and mechanical details fo
 
 ### Samples
 
-- [ESP32-S3 SH8501 SPI bring-up (LVGL9)](./examples/esp32s3-0.95-amoled-120x240-spi-sh8501-bringup/)
+- [ESP32-S3 SH8501 SPI bring-up (LVGL9)](./examples/esp32s3-amoled-0.95-120x240-spi-sh8501-bringup/)
 
 ## Buy
 

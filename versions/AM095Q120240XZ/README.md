@@ -31,7 +31,7 @@
 
 OSPTEK **0.95 寸 120×240 AMOLED** 是一款 **SPI** 接口彩色显示模组，驱动芯片为 **SH8501**。小尺寸竖条分辨率适合穿戴、状态指示与紧凑 HMI 等场景。
 
-规格标识（仓库名）：`0.95-amoled-120x240-spi-sh8501`
+规格标识（仓库名）：`amoled-0.95-120x240-spi-sh8501`
 
 当前模组版本：**AM095Q120240XZ**。电气与外形细节以 [`docs/AM_095_Q120240_XZ_d0c3fdd1ce.pdf`](./docs/AM_095_Q120240_XZ_d0c3fdd1ce.pdf) 为准。
 
@@ -51,12 +51,12 @@ OSPTEK **0.95 寸 120×240 AMOLED** 是一款 **SPI** 接口彩色显示模组�
 
 | 说明 | 路径 |
 | ---- | ---- |
-| ESP32-S3 · SH8501 SPI bring-up（LVGL9） | [`examples/esp32s3-0.95-amoled-120x240-spi-sh8501-bringup/`](./examples/esp32s3-0.95-amoled-120x240-spi-sh8501-bringup/) |
+| ESP32-S3 · SH8501 SPI bring-up（LVGL9） | [`examples/esp32s3-amoled-0.95-120x240-spi-sh8501-bringup/`](./examples/esp32s3-amoled-0.95-120x240-spi-sh8501-bringup/) |
 
 ## 仓库结构
 
 ```text
-0.95-amoled-120x240-spi-sh8501/                                # 仓库根（导航见 ../../README.md）
+amoled-0.95-120x240-spi-sh8501/                                # 仓库根（导航见 ../../README.md）
 └── versions/
     └── AM095Q120240XZ/                                # 本料号完整资料
         ├── README.md
@@ -81,7 +81,7 @@ OSPTEK **0.95 寸 120×240 AMOLED** 是一款 **SPI** 接口彩色显示模组�
 
 ### 示例工程
 
-- [ESP32-S3 SH8501 SPI bring-up（LVGL9）](./examples/esp32s3-0.95-amoled-120x240-spi-sh8501-bringup/)
+- [ESP32-S3 SH8501 SPI bring-up（LVGL9）](./examples/esp32s3-amoled-0.95-120x240-spi-sh8501-bringup/)
 
 ## 购买链接
 

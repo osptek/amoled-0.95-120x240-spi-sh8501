@@ -29,7 +29,7 @@ This repository holds materials for the **0.95″ 120×240 AMOLED (SPI · SH8501
 
 The **root README is the navigation page**. Use the table below for a quick scan; open **Full docs** to enter that **part-number folder** under `versions/` (product page, datasheets, and examples live there).
 
-Repo id: `0.95-amoled-120x240-spi-sh8501`
+Repo id: `amoled-0.95-120x240-spi-sh8501`
 
 ---
 
