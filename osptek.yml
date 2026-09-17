@@ -6,6 +6,7 @@ panel: amoled
 resolution: 120x240
 interface: [spi]
 shape: rect
+corner: sharp
 
 versions:
   - id: AM095Q120240XZ
