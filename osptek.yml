@@ -1,0 +1,14 @@
+id: amoled-0.95-120x240-spi-sh8501
+category: displays
+
+size: "0.95"
+panel: amoled
+resolution: 120x240
+interface: [spi]
+shape: rect
+
+versions:
+  - id: AM095Q120240XZ
+    driver: SH8501
+    touch: none
+    note: none
